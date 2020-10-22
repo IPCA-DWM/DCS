@@ -4,4 +4,4 @@ Nos, como ja deu para perceber pelo nome, somos uma cooperativa de Motoqueiros R
 Estamos sempre abertos para novos membros na nossa cooperativa e estamos ansiosos por te conhecer seu ganda maluco.
 Sim isto é um convite
 
-https://cdn.discordapp.com/attachments/274245889973813258/768855397892882472/Ativo_2.png
+<img src="https://cdn.discordapp.com/attachments/274245889973813258/768855397892882472/Ativo_2.png">
