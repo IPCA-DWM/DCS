@@ -1,7 +1,7 @@
 ## Trabalho de diagnóstico DCS
-You can use the [editor on GitHub](https://github.com/IPCA-DWM/DCS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Olá, e sejam bem vindos pelos Motoqueiros Rockeiros de Barcelos.
+Nos, como ja deu para perceber pelo nome, somos uma cooperativa de Motoqueiros Rockeiros da zona de Barcelos que partilhamos o gosto de motos e rock, com a iniciativa e a procura de pessoas que partilhavam os mesmo gostos foi formada esta cooperativa.
+Estamos sempre abertos para novos membros na nossa cooperativa e estamos ansiosos por te conhecer seu ganda maluco.
 
 ### Markdown
 
